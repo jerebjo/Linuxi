@@ -42,7 +42,7 @@ Debianin löysin Tero Karvisen etusivulta mikä näytettiin tunnilla: (https://t
 
 ## 2. vaihe. Debianin lisääminen virtual boxiin. klo. 15.18.
 
-Aloitetin avaamalla Virtual Box managerin. Seuraavaksi valitsin uuden virtuaali koneen. Vaihdoin tilan expert modeen. Sitten nimesin koneen. Laitoin nimeksi Linuxi. Seuraavaksi lisäsin ISO-imageen juuri ladanneeni Debian live tiedoston. Tämän jälkeen vaihdoin tyypin Linuxiin sekä version Debian 64-bittiin. 
+Aloitin avaamalla Virtual Box managerin. Seuraavaksi valitsin uuden virtuaali koneen. Vaihdoin tilan expert modeen. Sitten nimesin koneen. Laitoin nimeksi Linuxi. Seuraavaksi lisäsin ISO-imageen juuri ladanneeni Debian live tiedoston. Tämän jälkeen vaihdoin tyypin Linuxiin sekä version Debian 64-bittiin. 
 
 ![Debianin lisäys](debianlisaus.png) 
 
@@ -50,8 +50,9 @@ Seuraavaksi menin kohtaan hardware. Siirsin base memoryn 2800 MB sekä prosessor
 
 ![Hardware kohta](hw.png) 
 
-Sitten on enää kovalevy, johon varasin tilaa noin 60 GB.
+Sitten on enää kovalevy, johon varasin tilaa noin 60 GB. Lopuksi painoin "finnish"
 
 ![hard disc](hd.png) 
 
+Seuraavaksi valitsin juuri luomani virtuaalikoneen ja menin asetuksiin. Asetuksissa menin kohtaan "storage" josta valitsin tyhjän levyn ja painoin ok.
 
