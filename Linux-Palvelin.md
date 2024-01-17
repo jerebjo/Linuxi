@@ -46,6 +46,8 @@ Aloitetin avaamalla Virtual Box managerin. Seuraavaksi valitsin uuden virtuaali 
 
 ![Debianin lisäys](debianlisaus.png) 
 
+Seuraavaksi menin kohtaan hardware. Siirsin base memoryn 2800 MB sekä prosessori kohtaan 2 ydintä.
+
 
 
 
