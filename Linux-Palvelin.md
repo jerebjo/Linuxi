@@ -72,9 +72,11 @@ Seuraavaksi kokeilin toimiiko virtuaalikone niin kuin pitääkin. Menin googless
 
 Valitsin työpöydältä "Install Debian". Ensiksi valitsin kielen, johon laitoin American English. Laitoin alueeksi Euroopan ja vyöhykkeeksi helsingin. Vaihdoin näppäimistöksi suomen ja "default" vaihtoehdolla. 
 
-Seuraavaksi pääsin "partions" kohtaan, jossa valitsin kohdan "erase disk", jotta virtuaalisella levyllä ei ole mitääm ylimääräistä.
+Seuraavaksi pääsin "partions" kohtaan, jossa valitsin kohdan "erase disk", jotta virtuaalisella levyllä ei ole mitääm ylimääräistä. Lopuksi painoin "next".
 
 ![erase](Erasedisk.png)
+
+Seuraavaan kohtaan lisäsin käyttäjätiedot. 
 
 
 
