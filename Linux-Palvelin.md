@@ -82,6 +82,10 @@ Seuraavaan kohtaan lisäsin käyttäjätiedot.
 
 Tämän jälkeen katsoin yhteenvedon ja aloitin asennuksen.
 
+![lataus](install.png) 
+
+
+
 
 
 
