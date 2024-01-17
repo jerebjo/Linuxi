@@ -62,6 +62,8 @@ Seuraavaksi valitsin juuri luomani virtuaalikoneen ja menin asetuksiin. Asetuksi
 
 Ensimmöisenä avasin virtuaalikoneen tupla klikkaamalla sen kuvaa. Valitsin valikosta Live system (amd64).
 
+![debian](Debian12.png) 
+
 
 
 
