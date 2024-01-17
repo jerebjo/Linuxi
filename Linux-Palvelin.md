@@ -66,9 +66,13 @@ Ensimmäisenä avasin virtuaalikoneen tupla klikkaamalla sen kuvaa. Valitsin val
 
 ![desktop](desktop.png)
 
-Seuraavaksi kokeilin toimiiko virtuaalikone niin kuin pitääkin. Menin googlessa forecan sivuille katsomaan päivän säätä. 
+Seuraavaksi kokeilin toimiiko virtuaalikone niin kuin pitääkin. Menin googlessa forecan sivuille katsomaan päivän säätä. Huomasin kuitenkin, että näppäimistön Ä- ja Ö-kirjaimet eivät toimi.
 
 ![testi](testi.png)
+
+Valitsin työpöydältä "Install Debian". Ensiksi valitsin kielen, johon laitoin American English. Laitoin alueeksi Euroopan ja vyöhykkeeksi helsingin. Vaihdoin näppäimistöksi suomen ja "default" vaihtoehdolla. 
+
+Seuraavaksi pääsin "partions" kohtaan, jossa valitsin kohdan "erase disk", jotta virtuaalisella levyllä ei ole mitääm ylimääräistä.
 
 
 
