@@ -74,5 +74,8 @@ Valitsin työpöydältä "Install Debian". Ensiksi valitsin kielen, johon laitoi
 
 Seuraavaksi pääsin "partions" kohtaan, jossa valitsin kohdan "erase disk", jotta virtuaalisella levyllä ei ole mitääm ylimääräistä.
 
+![erase](Erasedisk.png)
+
+
 
 
