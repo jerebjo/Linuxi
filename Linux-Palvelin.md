@@ -52,6 +52,6 @@ Seuraavaksi menin kohtaan hardware. Siirsin base memoryn 2800 MB sekä prosessor
 
 Sitten on enää kovalevy, johon varasin tilaa noin 60 GB.
 
-
+![hard disc](hd.png) 
 
 
