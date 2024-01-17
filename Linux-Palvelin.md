@@ -21,7 +21,7 @@ Free software foundation. 1.1.2024. What is free software? (https://www.gnu.org/
  - Vapaus ajaa ohjelmaa milloin haluat ja miten.
  - Vapaus opiskella ohjelman toimintaa ja muokata sitä.
  - Vapaus uudelleen jakaa kopioita ohjelmasta.
- - mVapaus jakaa kopioita muokkaamastasi ohjelmasta muille.
+ - Vapaus jakaa kopioita muokkaamastasi ohjelmasta muille.
 
 ## Linuxin asennus virtuaalikoneeseen. klo. 15.07.
 
