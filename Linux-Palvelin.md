@@ -44,5 +44,8 @@ Debianin löysin Tero Karvisen etusivulta mikä näytettiin tunnilla: (https://t
 
 Aloitetin avaamalla Virtual Box managerin. Seuraavaksi valitsin uuden virtuaali koneen. Vaihdoin tilan expert modeen. Sitten nimesin koneen. Laitoin nimeksi Linuxi. Seuraavaksi lisäsin ISO-imageen juuri ladanneeni Debian live tiedoston. Tämän jälkeen vaihdoin tyypin Linuxiin sekä version Debian 64-bittiin. 
 
+![Debianin lisäys](debianlisaus.png) 
+
+
 
 
