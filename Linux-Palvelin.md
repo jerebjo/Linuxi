@@ -48,6 +48,8 @@ Aloitetin avaamalla Virtual Box managerin. Seuraavaksi valitsin uuden virtuaali 
 
 Seuraavaksi menin kohtaan hardware. Siirsin base memoryn 2800 MB sekä prosessori kohtaan 2 ydintä.
 
+![Hardware kohta](hw.png) 
+
 
 
 
