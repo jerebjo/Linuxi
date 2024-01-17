@@ -38,7 +38,7 @@ Virtual Boxin latasin netistä virtual boxin nettisivuilta (https://www.virtualb
 
 ![Virtual Box alkunäkymä](VirtualBox.png) 
 
-Debianin löysin Tero Karvisen etusivulta mikä näytettiin tunnilla: (https://terokarvinen.com/2021/install-debian-on-virtualbox/) 
+Debianin löysin Tero Karvisen etusivulta mikä näytettiin tunnilla: (https://terokarvinen.com/2021/install-debian-on-virtualbox/) Seurasin sivulla esitettyjä ohjeita. 
 
 ## 2. vaihe. Debianin lisääminen virtual boxiin. klo. 15.18.
 
@@ -55,4 +55,13 @@ Sitten on enää kovalevy, johon varasin tilaa noin 60 GB. Lopuksi painoin "finn
 ![hard disc](hd.png) 
 
 Seuraavaksi valitsin juuri luomani virtuaalikoneen ja menin asetuksiin. Asetuksissa menin kohtaan "storage" josta valitsin tyhjän levyn ja painoin ok.
+
+![settings](settings.png)
+
+## 3. vaihe. Virtuaalikoneen käynnistys. klo 16.23.
+
+Ensimmöisenä avasin virtuaalikoneen tupla klikkaamalla sen kuvaa. Valitsin valikosta Live system (amd64).
+
+
+
 
