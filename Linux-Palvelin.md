@@ -80,7 +80,7 @@ Seuraavaan kohtaan lisäsin käyttäjätiedot.
 
 ![kayttis](kayttis.png) 
 
-Tämän jälkeen katsoin yhteenvedon ja aloitin asennuksen.
+Tämän jälkeen katsoin yhteenvedon ja aloitin asennuksen. Asennuksen jälkeen Painoin "restart now" ja "done"
 
 ![lataus](install.png) 
 
