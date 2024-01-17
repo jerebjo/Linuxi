@@ -86,9 +86,16 @@ Tämän jälkeen katsoin yhteenvedon ja aloitin asennuksen. Asennuksen jälkeen 
 
 Lopulta sain ohjelman ladattua ja pääsin kirjautumaan sisään omilla tunnuksilla. 
 
+![restart](restart.png)
 
+## lopetus klo.17.35
 
+## lähteet
 
+Karvinen T, 2024. Tehtävänanto. https://terokarvinen.com/2024/linux-palvelimet-2024-alkukevat/#h1-oma-linux
+Karvinen T, 16.1.2024. Luento. Linux-Palvelimet
+Karvinen T, 13.4.2021. Install Debian on Virtual Box. https://terokarvinen.com/2021/install-debian-on-virtualbox/
+Foreca 17.1.2024. Helsingin sääennuste. https://www.foreca.fi/Finland/Helsinki/10vrk 
 
 
 
