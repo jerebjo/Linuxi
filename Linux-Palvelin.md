@@ -68,6 +68,7 @@ Ensimmäisenä avasin virtuaalikoneen tupla klikkaamalla sen kuvaa. Valitsin val
 
 Seuraavaksi kokeilin toimiiko virtuaalikone niin kuin pitääkin. Menin googlessa forecan sivuille katsomaan päivän säätä. 
 
+![testi](testi.png)
 
 
 
