@@ -84,6 +84,8 @@ Tämän jälkeen katsoin yhteenvedon ja aloitin asennuksen. Asennuksen jälkeen 
 
 ![lataus](install.png) 
 
+Lopulta sain ohjelman ladattua ja pääsin kirjautumaan sisään omilla tunnuksilla. 
+
 
 
 
