@@ -80,6 +80,10 @@ Seuraavaan kohtaan lisäsin käyttäjätiedot.
 
 ![kayttis](kayttis.png) 
 
+Tämän jälkeen katsoin yhteenvedon ja aloitin asennuksen.
+
+
+
 
 
 
