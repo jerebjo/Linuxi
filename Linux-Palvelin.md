@@ -78,6 +78,9 @@ Seuraavaksi pääsin "partions" kohtaan, jossa valitsin kohdan "erase disk", jot
 
 Seuraavaan kohtaan lisäsin käyttäjätiedot. 
 
+![kayttis](kayttis.png) 
+
+
 
 
 
