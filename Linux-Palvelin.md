@@ -60,10 +60,14 @@ Seuraavaksi valitsin juuri luomani virtuaalikoneen ja menin asetuksiin. Asetuksi
 
 ## 3. vaihe. Virtuaalikoneen käynnistys. klo 16.23.
 
-Ensimmöisenä avasin virtuaalikoneen tupla klikkaamalla sen kuvaa. Valitsin valikosta Live system (amd64) ja painoin enter.
+Ensimmäisenä avasin virtuaalikoneen tupla klikkaamalla sen kuvaa. Valitsin valikosta Live system (amd64) ja painoin enter.
 
 ![debian](Debian12.png) 
 
-![desktop](
+![desktop](desktop.png)
+
+Seuraavaksi kokeilin toimiiko virtuaalikone niin kuin pitääkin. Menin googlessa forecan sivuille katsomaan päivän säätä. 
+
+
 
 
