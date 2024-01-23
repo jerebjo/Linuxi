@@ -36,7 +36,7 @@ Koneenani toimii Lenovon ideapad gaming 3.
 Latasin Oraclen Virtual Boxin sekä Debian Live -levykuvan.
 Virtual Boxin latasin netistä virtual boxin nettisivuilta (https://www.virtualbox.org/wiki/Downloads). Valitsin siihen windows hostin.
 
-![Virtual Box alkunäkymä](VirtualBox.png) 
+![Virtual Box alkunäkymä](Photos/VirtualBox.png) 
 
 Debianin löysin Tero Karvisen etusivulta mikä näytettiin tunnilla: (https://terokarvinen.com/2021/install-debian-on-virtualbox/) Seurasin sivulla esitettyjä ohjeita. 
 
@@ -44,11 +44,11 @@ Debianin löysin Tero Karvisen etusivulta mikä näytettiin tunnilla: (https://t
 
 Aloitin avaamalla Virtual Box managerin. Seuraavaksi valitsin uuden virtuaali koneen. Vaihdoin tilan expert modeen. Sitten nimesin koneen. Laitoin nimeksi Linuxi. Seuraavaksi lisäsin ISO-imageen juuri ladanneeni Debian live tiedoston. Tämän jälkeen vaihdoin tyypin Linuxiin sekä version Debian 64-bittiin. 
 
-![Debianin lisäys](debianlisaus.png) 
+![Debianin lisäys](Photos/debianlisaus.png) 
 
 Seuraavaksi menin kohtaan hardware. Siirsin base memoryn 2800 MB sekä prosessori kohtaan 2 ydintä.
 
-![Hardware kohta](hw.png) 
+![Hardware kohta](Photos/hw.png) 
 
 Sitten on enää kovalevy, johon varasin tilaa noin 60 GB. Lopuksi painoin "finnish"
 
@@ -56,37 +56,37 @@ Sitten on enää kovalevy, johon varasin tilaa noin 60 GB. Lopuksi painoin "finn
 
 Seuraavaksi valitsin juuri luomani virtuaalikoneen ja menin asetuksiin. Asetuksissa menin kohtaan "storage" josta valitsin tyhjän levyn ja painoin ok.
 
-![settings](settings.png)
+![settings](Photos/settings.png)
 
 ## 3. vaihe. Virtuaalikoneen käynnistys. klo 16.23.
 
 Ensimmäisenä avasin virtuaalikoneen tupla klikkaamalla sen kuvaa. Valitsin valikosta Live system (amd64) ja painoin enter.
 
-![debian](Debian12.png) 
+![debian](Photos/Debian12.png) 
 
-![desktop](desktop.png)
+![desktop](Photos/desktop.png)
 
 Seuraavaksi kokeilin toimiiko virtuaalikone niin kuin pitääkin. Menin googlessa forecan sivuille katsomaan päivän säätä. Huomasin kuitenkin, että näppäimistön Ä- ja Ö-kirjaimet eivät toimi.
 
-![testi](testi.png)
+![testi](Photos/testi.png)
 
 Valitsin työpöydältä "Install Debian". Ensiksi valitsin kielen, johon laitoin American English. Laitoin alueeksi Euroopan ja vyöhykkeeksi helsingin. Vaihdoin näppäimistöksi suomen ja "default" vaihtoehdolla. 
 
 Seuraavaksi pääsin "partions" kohtaan, jossa valitsin kohdan "erase disk", jotta virtuaalisella levyllä ei ole mitääm ylimääräistä. Lopuksi painoin "next".
 
-![erase](Erasedisk.png)
+![erase](Photos/Erasedisk.png)
 
 Seuraavaan kohtaan lisäsin käyttäjätiedot. 
 
-![kayttis](kayttis.png) 
+![kayttis](Photos/kayttis.png) 
 
 Tämän jälkeen katsoin yhteenvedon ja aloitin asennuksen. Asennuksen jälkeen Painoin "restart now" ja "done"
 
-![lataus](install.png) 
+![lataus](Photos/install.png) 
 
 Lopulta sain ohjelman ladattua ja pääsin kirjautumaan sisään omilla tunnuksilla. 
 
-![restart](restart.png)
+![restart](Photos/restart.png)
 
 ## lopetus klo.17.35
 
