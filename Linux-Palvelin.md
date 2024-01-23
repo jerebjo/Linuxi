@@ -36,7 +36,7 @@ Koneenani toimii Lenovon ideapad gaming 3.
 Latasin Oraclen Virtual Boxin sekä Debian Live -levykuvan.
 Virtual Boxin latasin netistä virtual boxin nettisivuilta (https://www.virtualbox.org/wiki/Downloads). Valitsin siihen windows hostin.
 
-![Virtual Box alkunäkymä](Photos/VirtualBox.png)
+![Virtual Box alkunäkymä](Photos/VirtualBox.png width="50%")
 
 Debianin löysin Tero Karvisen etusivulta mikä näytettiin tunnilla: (https://terokarvinen.com/2021/install-debian-on-virtualbox/) Seurasin sivulla esitettyjä ohjeita. 
 
